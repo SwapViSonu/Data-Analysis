@@ -1,3 +1,3 @@
 # Data-Analysis
-Data analysis and Visualization
-IPL dataset  from 2008 - 2017
+Data analysis using Pandas and Numpy of dataset- ipl data.csv
+Data Visualization using Matplotlib and Seaborn - Of dataset Match.csv
